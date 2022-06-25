@@ -1,8 +1,8 @@
-Nama : Nelviana Dwi Lestari
+Nama : Muhammad Ardi abdurrahman
 
 Kelas : TI.20.D.1
 
-NIM : 312010086
+NIM : 312010075
 
 Matkul: Sistem Basis Data
 
